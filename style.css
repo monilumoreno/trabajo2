@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'verdana' ;
+    background: black;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+form{
+    /*background-image: url("./imagenes/img2.jpg");
+    filter: brightness(90%);*/
+    margin: 20px;
+    padding: 10x 0;
+    /*box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.8);
+    border-radius: 10px;*/
+}
+
+
+ 
